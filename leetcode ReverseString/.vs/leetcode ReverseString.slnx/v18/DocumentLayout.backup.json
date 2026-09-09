@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\ALS_Test\\leetcode ReverseString\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0F56812E-80EB-4314-AC2C-391E5BDF6B73}|leetcode ReverseString\\leetcode ReverseString.csproj|e:\\als_test\\leetcode reversestring\\leetcode reversestring\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0F56812E-80EB-4314-AC2C-391E5BDF6B73}|leetcode ReverseString\\leetcode ReverseString.csproj|solutionrelative:leetcode reversestring\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{c9c0ae26-aa77-11d2-b3f0-0000f87570ee}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\ALS_Test\\leetcode ReverseString\\leetcode ReverseString\\Program.cs",
+              "RelativeDocumentMoniker": "leetcode ReverseString\\Program.cs",
+              "ToolTip": "E:\\ALS_Test\\leetcode ReverseString\\leetcode ReverseString\\Program.cs",
+              "RelativeToolTip": "leetcode ReverseString\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-04T17:48:38.706Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
